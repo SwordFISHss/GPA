@@ -1,0 +1,7 @@
+QUERIES = [
+    
+    {
+        "query": "",
+        "answer": ""
+    }
+]
