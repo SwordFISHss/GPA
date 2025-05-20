@@ -65,7 +65,7 @@ This project contains four main components:
 
 1. Clone the repository
 ```
-git clone https://github.com/anonymous/poisoned_knowledge.git
+git clone [https://github.com/anonymous/poisoned_knowledge.git](https://anonymous.4open.science/r/GPA-5284)
 cd poisoned_knowledge
 ```
 
