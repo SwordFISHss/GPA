@@ -1,4 +1,4 @@
-# Poisoned Knowledge Graph Generation Framework
+# GPA: GraphRAG Poisoning Attack Unveiling Security Threats in Structured Multi-Hop Reasoning
 
 This framework is designed for building knowledge graphs and generating poisoned texts to study the safety and robustness of large language models.
 
