@@ -65,8 +65,8 @@ This project contains four main components:
 
 1. Clone the repository
 ```
-git clone [https://github.com/anonymous/poisoned_knowledge.git]
-cd poisoned_knowledge
+git clone
+cd
 ```
 
 2. Run the setup script
